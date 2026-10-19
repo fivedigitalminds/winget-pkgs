@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.12.13.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: FiveDigitalMinds.ZtudiaApp
+PackageVersion: "5.2"
+PackageLocale: es-MX
+Publisher: Five Digital Minds
+PackageName: ZtudiaApp
+License: Propietary
+ShortDescription: Plataforma educativa Ztudia.
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0

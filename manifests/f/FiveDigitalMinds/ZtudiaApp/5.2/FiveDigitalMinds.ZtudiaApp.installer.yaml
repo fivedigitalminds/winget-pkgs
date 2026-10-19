@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.12.13.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: FiveDigitalMinds.ZtudiaApp
+PackageVersion: "5.2"
+InstallerType: nullsoft
+Installers:
+- Architecture: x64
+  InstallerUrl: https://app.ztudia.com/files/download/Instalador_ZtudiaApp_5.2_es.exe
+  InstallerSha256: DB1276FE08CD004445ACFA99D652762F055DDC9234DD9BBB48F0670166D7C150
+ManifestType: installer
+ManifestVersion: 1.12.0
